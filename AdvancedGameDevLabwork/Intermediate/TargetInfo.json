@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AdvancedGameDevLabwork",
+			"Path": "..\\Source\\AdvancedGameDevLabwork.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AdvancedGameDevLabworkEditor",
+			"Path": "..\\Source\\AdvancedGameDevLabworkEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

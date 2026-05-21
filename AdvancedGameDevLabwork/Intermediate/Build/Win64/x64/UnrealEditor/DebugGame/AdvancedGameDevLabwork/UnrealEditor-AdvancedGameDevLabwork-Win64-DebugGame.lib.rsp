@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedGameDevLabwork-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Guray/Desktop/odevler/Muz/GAD2006_AdvancedDevelopment-main/Labwork1 - Kopy/Intermediate/Build/Win64/x64/AdvancedGameDevLabworkEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"C:/Users/Guray/Desktop/odevler/Muz/GAD2006_AdvancedDevelopment-main/Labwork1 - Kopy/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedGameDevLabwork/Module.AdvancedGameDevLabwork.gen.cpp.obj"
+"C:/Users/Guray/Desktop/odevler/Muz/GAD2006_AdvancedDevelopment-main/Labwork1 - Kopy/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedGameDevLabwork/AdvancedGameDevLabwork.cpp.obj"
+"C:/Users/Guray/Desktop/odevler/Muz/GAD2006_AdvancedDevelopment-main/Labwork1 - Kopy/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedGameDevLabwork/BaseCharacter.cpp.obj"
+"C:/Users/Guray/Desktop/odevler/Muz/GAD2006_AdvancedDevelopment-main/Labwork1 - Kopy/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedGameDevLabwork/MyCharacter.cpp.obj"
+"C:/Users/Guray/Desktop/odevler/Muz/GAD2006_AdvancedDevelopment-main/Labwork1 - Kopy/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedGameDevLabwork/PerModuleInline.gen.cpp.obj"
+"C:/Users/Guray/Desktop/odevler/Muz/GAD2006_AdvancedDevelopment-main/Labwork1 - Kopy/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedGameDevLabwork/Default.rc2.res"
+/OUT:"C:/Users/Guray/Desktop/odevler/Muz/GAD2006_AdvancedDevelopment-main/Labwork1 - Kopy/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedGameDevLabwork/UnrealEditor-AdvancedGameDevLabwork-Win64-DebugGame.lib"

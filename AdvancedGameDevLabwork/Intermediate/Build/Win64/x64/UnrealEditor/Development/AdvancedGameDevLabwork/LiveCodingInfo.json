@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AdvancedGameDevLabwork.gen.cpp.obj": [
+			"AdvancedGameDevLabwork.init.gen.cpp.obj",
+			"BaseCharacter.gen.cpp.obj",
+			"MyCharacter.gen.cpp.obj"
+		]
+	}
+}
